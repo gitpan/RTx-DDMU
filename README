@@ -1,14 +1,14 @@
-This is the README file for HTML::CalendarMonthSimple::MultidaysEvent, to creating the 
-multi days view html with CalendarMonthSimple.
+This is the README file for RTx::DDMU.
 
-Please type "perldoc HTML::CalendarMonthSimple::MultidaysEvent" after installation to see
+RTx::DDMU is the drop down menu user interface for RT, and it works for RT 3.5 or later. You should make sure the version of RT that you installed currently.
+
+Please type "perldoc RTx::DDMU" after installation to see
 the module usage information.
 
 * Installation
 
-HTML::CalendarMonthSimple::MultidaysEvent uses the standard perl module install process:
+RTx::DDMU uses the standard perl module install process:
 
-cpansign -v		# optional; see SIGNATURE for details
 perl Makefile.PL
 make			# or 'nmake' on Win32
 make test
